@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package gitsample1;
+package javascholartracking;
 
 /**
  *
  * @author Hariell
  */
-public class GitSample1 {
+public class JavaScholarTracking {
 
     /**
      * @param args the command line arguments
